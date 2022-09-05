@@ -1,0 +1,63 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+   
+}
+
+body{
+ width: 100%;
+ background-color: whitesmoke;
+ text-align: center;
+ padding-top: 20%;
+ 
+}
+
+header{
+    font-size: 70px;
+    font-family: Georgia;
+    padding: 40px 0;
+
+}
+
+.suit{
+    height: 100vh;
+   
+   
+   
+}
+
+.container{
+    
+    margin: 0px 10% 20% 10%;
+}
+
+.inner-container{
+    background-color: rgba(35, 27, 33, 0.25);
+    padding: 20px 45px 20px 45px;
+    margin: 10% 15% 20% 18% ;
+    box-shadow: 20px 20px 20px #0e0d11;
+}
+
+.story{
+    font-size: 18px;
+    font-family: 'Gill Sans';
+    color: black;
+    text-align: left;
+    padding: 20px 0px 20px 0px ;
+  }
+.legend{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    padding: 20px 0px ;
+    text-shadow: 5px 5px 10px white;
+}
+.last-one{
+    padding-bottom: 80px;
+    font-size: 18px;
+    font-family: 'Gill Sans';
+    color: black;
+    text-align: left;
+
+}
